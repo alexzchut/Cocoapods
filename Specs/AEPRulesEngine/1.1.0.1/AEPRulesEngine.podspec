@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/adobe/aepsdk-rulesengine-ios"
   s.license          = 'Apache V2'
   s.author       = "Adobe Experience Platform SDK Team"
-  s.source           = { :git => "https://github.com/adobe/aepsdk-rulesengine-ios.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/alexzchut/aepsdk-rulesengine-ios.git", :tag => s.version.to_s }
 
   s.requires_arc          = true
 
